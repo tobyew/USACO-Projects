@@ -8,3 +8,5 @@ I'd say USACO Modern Art, (https://repl.it/@TobyWong/USACO-Modern-Art#main.py) w
 
 I used repl to code all of these, and repl gets some stuff mixed up sometimes so I hope I uploaded everything correctly
 
+
+NOTE: I'm not sure how to see a file's extended discription, but sometimes I put some info there, usually just a link to the question
